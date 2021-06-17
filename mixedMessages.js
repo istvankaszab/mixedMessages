@@ -1,5 +1,4 @@
-import {adjectives} from './adjectives';
-import {nouns} from './nouns';
-import {verbs} from './verbs';
+const words = require('./words.json');
 
 let message = "";
+console.log(words.adjectives);
