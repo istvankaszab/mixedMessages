@@ -1,4 +1,4 @@
-verbs = [
+const verbs = [
   "asks",
   "becomes",
   "begins",

@@ -1,4 +1,4 @@
-adjectives = [
+const adjectives = [
   "able",
   "bad",
   "best",
