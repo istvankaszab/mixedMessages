@@ -12,3 +12,6 @@ The *adjective* *noun* *verb* the *adjective* *noun*.
 
 ### Usage
 Simply run in terminal: `node mixedMessages.js` 
+
+### System requirements
+- Nodejs
