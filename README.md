@@ -6,7 +6,7 @@ The structure is similar to the well known phrase of *The quick brown fox jumps 
 The *adjective* *noun* *verb* the *adjective* *noun*.
 
 
-### Used technologies: 
+### Used technologies
 - JavaScript
 - git
 - Node.js
