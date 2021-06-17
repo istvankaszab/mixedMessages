@@ -9,9 +9,10 @@ The *adjective* *noun* *verb* the *adjective* *noun*.
 ### Used technologies: 
 - JavaScript
 - git
+- Node.js
 
 ### Usage
 Simply run in terminal: `node mixedMessages.js` 
 
 ### System requirements
-- Nodejs
+- Node.js
