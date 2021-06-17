@@ -1,4 +1,4 @@
-const nouns = [
+export const nouns = [
   "area",
   "book",
   "business",

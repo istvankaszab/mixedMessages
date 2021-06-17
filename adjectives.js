@@ -1,4 +1,4 @@
-const adjectives = [
+export const adjectives = [
   "able",
   "bad",
   "best",

@@ -1,4 +1,4 @@
-const verbs = [
+export const verbs = [
   "asks",
   "becomes",
   "begins",
